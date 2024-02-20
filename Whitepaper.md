@@ -35,13 +35,13 @@ To create a vibrant and inclusive community where every member feels valued, sup
 
 ### Joining Causality
 
-- Prospective members must apply through our website, highlighting their interests in PvP, PvE, or community activities.
+- Prospective members must apply through our discord, highlighting their interests in PvP, PvE, or community activities.
 - Applicants go through a brief orientation period to ensure alignment with our values and mission.
 
 ### Guild Structure
 
-- **Guild Leader**: Oversees guild operations and embodies our core values.
-- **Council Members**: Assist in guild management, focusing on specific areas such as PvE, PvP, and community events.
+- **Council**: Responsible for guild managment, application review and role assignment.
+- **Organizers**: Assist in guild management, focusing on specific areas such as PvE, PvP, and community events.
 - **Members**: The heart of our guild, actively participating in guild activities and contributing to our community.
 
 ### Policies and Guidelines
