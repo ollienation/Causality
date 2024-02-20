@@ -28,16 +28,11 @@ With the upcoming Cataclysm expansion, we're gearing up to embrace the new guild
 ## Join Us
 
 Interested in becoming a part of Causality? Here's how you can join our ranks and start your journey with us:
-- **Apply on our Website**: Fill out the application form, and let us know what you bring to the guild.
 - **Join our Discord**: Engage with our community and stay up-to-date with guild events and announcements.
-
-## Contributing
-
-Members are encouraged to contribute to our GitHub repository, whether it's WoW addons, guides, or any tools that benefit the Causality community. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how you can contribute.
 
 ## Contact
 
-For any questions or more information, please reach out to us through our Discord server or email us at [email@example.com](mailto:email@example.com).
+For any questions or more information, please reach out to us through our Discord server.
 
 Let's make our mark on Azeroth together!
 
