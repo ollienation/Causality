@@ -51,9 +51,10 @@ To create a vibrant and inclusive community where every member feels valued, sup
 
 ## Future Goals and Plans
 
-- **Expansion**: Grow our guild sustainably, ensuring that community quality is maintained.
-- **Competitive Play**: Enhance our presence in PvP and PvE leaderboards, showcasing our members' skills and teamwork.
-- **Community Outreach**: Engage in cross-guild events and collaborations, strengthening our ties within the WoW community.
+- **Expansion**: We aim to grow our guild sustainably, ensuring that the quality of our community is maintained even as we welcome new members. This includes fostering a supportive environment for players of all experience levels and interests.
+- **Competitive Play**: Our guild strives to enhance our presence on both PvP and PvE leaderboards. Showcasing the skills and teamwork of our members is not just a goal but a testament to our collective dedication and talent.
+- **Community Outreach**: Engaging in cross-guild events and collaborations is crucial for strengthening our ties within the WoW community. Through these interactions, we aim to build lasting friendships and alliances.
+- **Preparation for Future Content**: With the impending release of the Cataclysm expansion, our guild is dedicated to staying ahead of the curve. We plan to thoroughly prepare for the new guild mechanics that will be introduced, ensuring that all members are well-informed and ready to take full advantage of these changes.
 
 ## Conclusion
 
