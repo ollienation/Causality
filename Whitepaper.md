@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to the Causality Guild, a unique community within the World of Warcraft universe that thrives on the principles of camaraderie, mutual respect, and collective achievement. Our guild is more than just a group of players; we are a close-knit family dedicated to experiencing all aspects of Azeroth together, from the thrill of PvP battles to the challenge of PvE encounters.
+Welcome to the Causality, a unique community within the World of Warcraft universe that thrives on the principles of camaraderie, mutual respect, and collective achievement. Our community is more than just a group of players; we are a close-knit family dedicated to experiencing all aspects of Azeroth together, from the thrill of PvP battles to the challenge of PvE encounters.
 
 ## Our Mission
 
